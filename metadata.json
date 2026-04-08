@@ -1,0 +1,5 @@
+{
+  "name": "Kingsley Deadweight Estimator",
+  "description": "Precision engineering tool for calculating calibration weights based on atmospheric pressure and orifice parameters.",
+  "requestFramePermissions": []
+}
